@@ -23,6 +23,8 @@ Power-Chords-Chart
 
 #### Major seventh
 - `R`-`4`-`0`
+- `R-1`-`0`-`0`
+- `R`-`0`-`-1`
 
 #### Tritone
 - `R`-`-1`-`0`

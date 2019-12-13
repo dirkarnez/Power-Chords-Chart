@@ -1,15 +1,15 @@
 Power-Chords-Chart
 =====================
-### Perfect fifth
+#### Perfect fifth
 - `R`-`0`-`0`
 
-### Sus2
+#### Sus2
 - `R`-`0`-`2`
 
-### Minor
+#### Minor
 - `R`-`0`-`3`
 
-### Major
+#### Major
 - `R`-`0`-`4`
 
 #### Augmented fifth / Minor sixth
@@ -24,9 +24,9 @@ Power-Chords-Chart
 #### Major seventh
 - `R`-`4`-`0`
 
-### Tritone
+#### Tritone
 - `R`-`-1`-`0`
 
-### Sus4 / Inverted Power Chord 
+#### Sus4 / Inverted Power Chord 
 - `R`-`-2`-`0`
   - `0` emphasizes the `R` 
